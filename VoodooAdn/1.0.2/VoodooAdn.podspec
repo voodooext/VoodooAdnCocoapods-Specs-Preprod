@@ -15,5 +15,4 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "VoodooAdn.xcframework"
   s.platform = :ios, "11.0"
-  
 end
